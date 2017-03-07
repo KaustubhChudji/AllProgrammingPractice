@@ -1,1 +1,0 @@
-this is simple jpa file in the Git for the testing purpose i have added this into the Master
